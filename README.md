@@ -11,10 +11,8 @@ MT Tools includes a collection of commonly used utilities, such as:
 
 - Calculator  
 - Translator  
-- Internet Speed Test  
-- PDF Reader  
-- Media Player  
-- File & System Utilities  
+- Search File
+- Paint
 - Lightweight GUI built with Python  
 
 > The toolset may expand over time as new features are added.
